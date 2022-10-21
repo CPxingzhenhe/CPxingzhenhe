@@ -1,0 +1,9 @@
+#include<stdio.h>
+{
+    int a = 19550908;
+    int b = 20221021;
+    int c = 0;
+    c = b-a;
+    printf("c = b-a %d" c,);
+    return 0;
+}
